@@ -1,4 +1,4 @@
-#Небольшая заготовка
+#Небольшая заготовка(бота можно найти по этому тегу: @Stimus_bot)
 import asyncio
 import logging
 from DATA import BOT_TOKEN

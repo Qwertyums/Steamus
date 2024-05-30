@@ -2,7 +2,7 @@ from aiogram import F, Router
 from aiogram.filters import CommandStart
 from aiogram.types import Message
 from keyboards.keyboards import *
-from lexicon_ru import LEXICON_RU, LEXICON_RU_SKIN, LEXICON_RU_GLOVES
+from lexicon.lexicon_ru import LEXICON_RU, LEXICON_RU_SKIN, LEXICON_RU_GLOVES
 from user_portfolios import user_portfolios
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
@@ -52,10 +52,10 @@ async def show_portfolios(message: Message):
 @router.message(F.text == 'Создать портфель')
 async def create_portfolio(message: Message):
     user_id = str(message.from_user.id)
-    if user_id not in user_portfolios: 
+    if user_id not in user_portfolios:
         user_portfolios[user_id] = {}
-    portfolio_name = f'Портфель {len(user_portfolios[user_id]) + 1}' 
-    user_portfolios[user_id][portfolio_name] = {} 
+    portfolio_name = f'Портфель {len(user_portfolios[user_id]) + 1}'
+    user_portfolios[user_id][portfolio_name] = {}
     await message.answer(f'Портфель "{portfolio_name}" создан!')
 
     await show_portfolios(message)
@@ -440,4 +440,3 @@ async def skin_command(message: Message):
 @router.message(F.text == 'Shadow Daggers')
 async def skin_command(message: Message):
     await message.answer(text='Выберите скин ', reply_markup=keyboard_shadow)
-

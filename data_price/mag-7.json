@@ -1,0 +1,453 @@
+{
+    "\u0427\u0438\u043d\u043a\u0443\u044d\u0434\u0430": {
+        "Basic": {
+            "Factory New": "59 379.53 \u20bd",
+            "Minimal Wear": "56 702.90 \u20bd",
+            "Field-Tested": "58 000.91 \u20bd",
+            "Well-Worn": "42 572.46 \u20bd",
+            "Battle-Scarred": "40 670.29 \u20bd"
+        }
+    },
+    "\u0411\u0443\u043b\u044c\u0434\u043e\u0437\u0435\u0440": {
+        "Basic": {
+            "Factory New": "13 553.44 \u20bd",
+            "Minimal Wear": "1 533.51 \u20bd",
+            "Field-Tested": "537.14 \u20bd",
+            "Well-Worn": "448.37 \u20bd",
+            "Battle-Scarred": "378.62 \u20bd"
+        },
+        "Souvenir": {
+            "Factory New": "38 419.38 \u20bd",
+            "Minimal Wear": "4 063.41 \u20bd",
+            "Field-Tested": "1 003.62 \u20bd",
+            "Well-Worn": "769.02 \u20bd",
+            "Battle-Scarred": "868.66 \u20bd"
+        }
+    },
+    "\u0410\u043d\u0442\u0438\u0442\u0435\u0440\u0440\u0430\u0441\u0430": {
+        "Basic": {
+            "Factory New": "10 613.22 \u20bd",
+            "Minimal Wear": "10 334.24 \u20bd",
+            "Field-Tested": "9 840.58 \u20bd",
+            "Well-Worn": "6 448.37 \u20bd",
+            "Battle-Scarred": "6 355.07 \u20bd"
+        }
+    },
+    "\u041f\u0440\u0438\u0437\u043c\u0435\u043d\u043d\u0430\u044f \u0442\u0435\u0440\u0440\u0430\u0441\u0430": {
+        "Basic": {
+            "Factory New": "4 473.73 \u20bd",
+            "Minimal Wear": "3 970.11 \u20bd",
+            "Field-Tested": "3 746.38 \u20bd"
+        },
+        "Souvenir": {
+            "Factory New": "1 487.32 \u20bd",
+            "Minimal Wear": "672.10 \u20bd",
+            "Field-Tested": "249.09 \u20bd"
+        }
+    },
+    "\u041a\u043e\u043b\u044c\u0447\u0443\u0433\u0430": {
+        "Basic": {
+            "Factory New": "$ 27.36",
+            "Minimal Wear": "$ 26.65",
+            "Field-Tested": "$ 25.58"
+        }
+    },
+    "\u0421\u0435\u0440\u0435\u0431\u0440\u043e": {
+        "Basic": {
+            "Factory New": "$ 18.36",
+            "Minimal Wear": "$ 19.38"
+        },
+        "Souvenir": {
+            "Factory New": "$ 12.00",
+            "Minimal Wear": "$ 11.21"
+        }
+    },
+    "\u0416\u0435\u043b\u0442\u043e-\u0447\u0435\u0440\u043d\u044b\u0435 \u043f\u043e\u043b\u043e\u0441\u044b": {
+        "Basic": {
+            "Factory New": "6 881.64 \u20bd",
+            "Minimal Wear": "1 275.76 \u20bd",
+            "Field-Tested": "933.86 \u20bd",
+            "Well-Worn": "909.31 \u20bd",
+            "Battle-Scarred": "677.43 \u20bd"
+        }
+    },
+    "\u0421\u043f\u0440\u0430\u0432\u0435\u0434\u043b\u0438\u0432\u043e\u0441\u0442\u044c": {
+        "Basic": {
+            "Factory New": "895.58 \u20bd",
+            "Minimal Wear": "400.36 \u20bd",
+            "Field-Tested": "191.52 \u20bd",
+            "Well-Worn": "151.39 \u20bd",
+            "Battle-Scarred": "120.38 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "2 551.76 \u20bd",
+            "Minimal Wear": "870.04 \u20bd",
+            "Field-Tested": "348.38 \u20bd",
+            "Well-Worn": "263.57 \u20bd",
+            "Battle-Scarred": "243.50 \u20bd"
+        }
+    },
+    "\u041e\u0431\u044a\u0435\u043c\u043d\u044b\u0435 \u0448\u0435\u0441\u0442\u0438\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a\u0438": {
+        "Basic": {
+            "Factory New": "627.72 \u20bd",
+            "Minimal Wear": "463.77 \u20bd",
+            "Field-Tested": "522.64 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "793.48 \u20bd",
+            "Minimal Wear": "576.99 \u20bd",
+            "Field-Tested": "360.51 \u20bd"
+        }
+    },
+    "\u041f\u0435\u0441\u0447\u0430\u043d\u044b\u0435 \u0434\u044e\u043d\u044b": {
+        "Basic": {
+            "Factory New": "1 021.74 \u20bd",
+            "Minimal Wear": "518.12 \u20bd",
+            "Field-Tested": "164.86 \u20bd",
+            "Well-Worn": "96.92 \u20bd",
+            "Battle-Scarred": "110.51 \u20bd"
+        },
+        "Souvenir": {
+            "Factory New": "937.50 \u20bd",
+            "Minimal Wear": "81.52 \u20bd",
+            "Field-Tested": "19.02 \u20bd",
+            "Well-Worn": "16.30 \u20bd",
+            "Battle-Scarred": "15.40 \u20bd"
+        }
+    },
+    "\u0423\u0433\u043b\u0435\u043f\u043b\u0430\u0441\u0442\u0438\u043a": {
+        "Basic": {
+            "Factory New": "509.21 \u20bd",
+            "Minimal Wear": "481.93 \u20bd"
+        }
+    },
+    "\u0427\u0430\u0439\u043a\u0430": {
+        "Basic": {
+            "Factory New": "465.58 \u20bd",
+            "Minimal Wear": "221.92 \u20bd",
+            "Field-Tested": "205.62 \u20bd",
+            "Well-Worn": "167.57 \u20bd",
+            "Battle-Scarred": "154.89 \u20bd"
+        }
+    },
+    "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u0438\u0435 \u044f\u0434\u0440\u0430": {
+        "Basic": {
+            "Factory New": "409.42 \u20bd",
+            "Minimal Wear": "155.80 \u20bd",
+            "Field-Tested": "60.69 \u20bd",
+            "Well-Worn": "50.72 \u20bd",
+            "Battle-Scarred": "42.57 \u20bd"
+        },
+        "Souvenir": {
+            "Factory New": "3 623.19 \u20bd",
+            "Minimal Wear": "180.25 \u20bd",
+            "Field-Tested": "77.90 \u20bd",
+            "Well-Worn": "88.77 \u20bd",
+            "Battle-Scarred": "100.54 \u20bd"
+        }
+    },
+    "\u041f\u0440\u0435\u0442\u043e\u0440\u0438\u0430\u043d\u0435\u0446": {
+        "Basic": {
+            "Factory New": "370.47 \u20bd",
+            "Minimal Wear": "257.25 \u20bd",
+            "Field-Tested": "175.72 \u20bd",
+            "Well-Worn": "152.17 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "680.25 \u20bd",
+            "Minimal Wear": "538.95 \u20bd",
+            "Field-Tested": "336.05 \u20bd",
+            "Well-Worn": "305.25 \u20bd"
+        }
+    },
+    "\u0420\u0430\u0434\u0438\u043e\u0430\u043a\u0442\u0438\u0432\u043d\u0430\u044f \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c": {
+        "Basic": {
+            "Factory New": "662.14 \u20bd",
+            "Minimal Wear": "351.45 \u20bd",
+            "Field-Tested": "297.10 \u20bd",
+            "Well-Worn": "214.67 \u20bd",
+            "Battle-Scarred": "215.58 \u20bd"
+        },
+        "Souvenir": {
+            "Factory New": "734.60 \u20bd",
+            "Minimal Wear": "88.77 \u20bd",
+            "Field-Tested": "18.12 \u20bd",
+            "Well-Worn": "33.51 \u20bd",
+            "Battle-Scarred": "22.64 \u20bd"
+        }
+    },
+    "\u041d\u0430\u0441\u044b\u0449\u0435\u043d\u043d\u0430\u044f \u0432\u043e\u0434\u0430": {
+        "Basic": {
+            "Factory New": "328.80 \u20bd",
+            "Minimal Wear": "293.48 \u20bd",
+            "Field-Tested": "259.06 \u20bd",
+            "Well-Worn": "259.06 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "466.49 \u20bd",
+            "Minimal Wear": "403.08 \u20bd",
+            "Field-Tested": "318.84 \u20bd",
+            "Well-Worn": "332.43 \u20bd"
+        }
+    },
+    "\u041f\u043e\u0434\u0436\u0438\u0433\u0430\u0442\u0435\u043b\u044c": {
+        "Basic": {
+            "Factory New": "276.27 \u20bd",
+            "Minimal Wear": "49.82 \u20bd",
+            "Field-Tested": "41.67 \u20bd",
+            "Well-Worn": "65.22 \u20bd",
+            "Battle-Scarred": "49.82 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "1 044.38 \u20bd",
+            "Minimal Wear": "144.93 \u20bd",
+            "Field-Tested": "114.13 \u20bd",
+            "Well-Worn": "128.62 \u20bd",
+            "Battle-Scarred": "125.91 \u20bd"
+        }
+    },
+    "\u0416\u0430\u0440": {
+        "Basic": {
+            "Factory New": "233.70 \u20bd",
+            "Minimal Wear": "81.52 \u20bd",
+            "Field-Tested": "38.95 \u20bd",
+            "Well-Worn": "26.27 \u20bd",
+            "Battle-Scarred": "25.36 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "722.83 \u20bd",
+            "Minimal Wear": "215.58 \u20bd",
+            "Field-Tested": "82.43 \u20bd",
+            "Well-Worn": "51.63 \u20bd",
+            "Battle-Scarred": "54.35 \u20bd"
+        }
+    },
+    "\u0412\u0438\u0441\u043c\u0443\u0442\u043e\u0432\u044b\u0439 \u0441\u043f\u0435\u043a\u0442\u0440": {
+        "Basic": {
+            "Factory New": "181.86 \u20bd",
+            "Minimal Wear": "83.66 \u20bd",
+            "Field-Tested": "45.47 \u20bd",
+            "Well-Worn": "50.01 \u20bd",
+            "Battle-Scarred": "39.10 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "554.68 \u20bd",
+            "Minimal Wear": "248.24 \u20bd",
+            "Field-Tested": "113.66 \u20bd",
+            "Well-Worn": "90.93 \u20bd",
+            "Battle-Scarred": "90.93 \u20bd"
+        }
+    },
+    "Copper Coated": {
+        "Basic": {
+            "Factory New": "174.82 \u20bd",
+            "Minimal Wear": "142.21 \u20bd",
+            "Field-Tested": "105.07 \u20bd",
+            "Well-Worn": "72.46 \u20bd",
+            "Battle-Scarred": "62.50 \u20bd"
+        },
+        "Souvenir": {
+            "Factory New": "-",
+            "Minimal Wear": "-",
+            "Field-Tested": "-",
+            "Well-Worn": "-",
+            "Battle-Scarred": "-"
+        }
+    },
+    "\u0413\u0440\u043e\u0437\u0430": {
+        "Basic": {
+            "Factory New": "516.30 \u20bd",
+            "Minimal Wear": "169.38 \u20bd",
+            "Field-Tested": "42.57 \u20bd",
+            "Well-Worn": "47.10 \u20bd",
+            "Battle-Scarred": "41.67 \u20bd"
+        },
+        "Souvenir": {
+            "Factory New": "249.09 \u20bd",
+            "Minimal Wear": "16.30 \u20bd",
+            "Field-Tested": "2.72 \u20bd",
+            "Well-Worn": "2.72 \u20bd",
+            "Battle-Scarred": "2.72 \u20bd"
+        }
+    },
+    "\u0417\u043e\u0432 \u043c\u043e\u043d\u0441\u0442\u0440\u0430": {
+        "Basic": {
+            "Factory New": "134.96 \u20bd",
+            "Minimal Wear": "59.78 \u20bd",
+            "Field-Tested": "35.33 \u20bd",
+            "Well-Worn": "24.46 \u20bd",
+            "Battle-Scarred": "22.64 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "392.21 \u20bd",
+            "Minimal Wear": "127.72 \u20bd",
+            "Field-Tested": "52.54 \u20bd",
+            "Well-Worn": "39.86 \u20bd",
+            "Battle-Scarred": "38.04 \u20bd"
+        }
+    },
+    "\u041f\u0435\u0442\u0440\u043e\u0433\u043b\u0438\u0444": {
+        "Basic": {
+            "Factory New": "125.00 \u20bd",
+            "Minimal Wear": "47.10 \u20bd",
+            "Field-Tested": "27.17 \u20bd",
+            "Well-Worn": "31.70 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "299.82 \u20bd",
+            "Minimal Wear": "128.62 \u20bd",
+            "Field-Tested": "43.48 \u20bd",
+            "Well-Worn": "40.76 \u20bd"
+        }
+    },
+    "\u041f\u041e\u041d\u0422-7": {
+        "Basic": {
+            "Factory New": "104.57 \u20bd",
+            "Minimal Wear": "45.47 \u20bd",
+            "Field-Tested": "22.73 \u20bd",
+            "Well-Worn": "19.10 \u20bd",
+            "Battle-Scarred": "19.10 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "320.99 \u20bd",
+            "Minimal Wear": "107.30 \u20bd",
+            "Field-Tested": "38.19 \u20bd",
+            "Well-Worn": "33.64 \u20bd",
+            "Battle-Scarred": "33.64 \u20bd"
+        }
+    },
+    "\u041f\u0451\u0441\u0438\u043a": {
+        "Basic": {
+            "Factory New": "22.64 \u20bd",
+            "Minimal Wear": "9.96 \u20bd",
+            "Field-Tested": "9.96 \u20bd",
+            "Well-Worn": "97.83 \u20bd",
+            "Battle-Scarred": "7.25 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "68.84 \u20bd",
+            "Minimal Wear": "22.64 \u20bd",
+            "Field-Tested": "9.96 \u20bd",
+            "Well-Worn": "20.83 \u20bd",
+            "Battle-Scarred": "7.25 \u20bd"
+        }
+    },
+    "\u0424\u043b\u043e\u0442\u0441\u043a\u0438\u0439 \u0431\u043b\u0435\u0441\u043a": {
+        "Basic": {
+            "Factory New": "60.69 \u20bd",
+            "Minimal Wear": "49.82 \u20bd",
+            "Field-Tested": "48.01 \u20bd",
+            "Well-Worn": "48.01 \u20bd",
+            "Battle-Scarred": "46.20 \u20bd"
+        },
+        "Souvenir": {
+            "Factory New": "2.72 \u20bd",
+            "Minimal Wear": "2.72 \u20bd",
+            "Field-Tested": "2.72 \u20bd",
+            "Well-Worn": "2.72 \u20bd",
+            "Battle-Scarred": "2.72 \u20bd"
+        }
+    },
+    "\u0420\u0430\u0439\u0441\u043a\u0438\u0439 \u0441\u0442\u0440\u0430\u0436": {
+        "Basic": {
+            "Factory New": "43.48 \u20bd",
+            "Minimal Wear": "33.51 \u20bd",
+            "Field-Tested": "28.99 \u20bd",
+            "Well-Worn": "28.99 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "128.62 \u20bd",
+            "Minimal Wear": "62.50 \u20bd",
+            "Field-Tested": "46.20 \u20bd",
+            "Well-Worn": "48.01 \u20bd"
+        }
+    },
+    "\u042f\u0434\u0440\u043e \u043a\u043e\u0431\u0430\u043b\u044c\u0442\u0430": {
+        "Basic": {
+            "Factory New": "43.78 \u20bd",
+            "Minimal Wear": "30.10 \u20bd",
+            "Field-Tested": "14.59 \u20bd",
+            "Well-Worn": "10.03 \u20bd",
+            "Battle-Scarred": "22.80 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "140.45 \u20bd",
+            "Minimal Wear": "72.05 \u20bd",
+            "Field-Tested": "31.01 \u20bd",
+            "Well-Worn": "26.45 \u20bd",
+            "Battle-Scarred": "22.80 \u20bd"
+        }
+    },
+    "\u042d\u0445\u043e\u043b\u043e\u0442": {
+        "Basic": {
+            "Factory New": "19.93 \u20bd",
+            "Minimal Wear": "9.96 \u20bd",
+            "Field-Tested": "9.06 \u20bd",
+            "Well-Worn": "9.96 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "88.77 \u20bd",
+            "Minimal Wear": "35.33 \u20bd",
+            "Field-Tested": "18.12 \u20bd",
+            "Well-Worn": "13.59 \u20bd"
+        }
+    },
+    "Insomnia": {
+        "Basic": {
+            "Factory New": "19.93 \u20bd",
+            "Minimal Wear": "8.15 \u20bd",
+            "Field-Tested": "3.62 \u20bd",
+            "Well-Worn": "3.62 \u20bd",
+            "Battle-Scarred": "4.53 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "80.62 \u20bd",
+            "Minimal Wear": "24.46 \u20bd",
+            "Field-Tested": "10.87 \u20bd",
+            "Well-Worn": "10.87 \u20bd",
+            "Battle-Scarred": "8.15 \u20bd"
+        }
+    },
+    "\u041f\u0440\u0435\u0434\u0441\u043a\u0430\u0437\u0430\u043d\u0438\u0435": {
+        "Basic": {
+            "Factory New": "13.59 \u20bd",
+            "Minimal Wear": "6.34 \u20bd",
+            "Field-Tested": "3.62 \u20bd",
+            "Well-Worn": "2.72 \u20bd",
+            "Battle-Scarred": "4.53 \u20bd"
+        },
+        "StatTrak\u2122": {
+            "Factory New": "47.10 \u20bd",
+            "Minimal Wear": "24.46 \u20bd",
+            "Field-Tested": "8.15 \u20bd",
+            "Well-Worn": "9.06 \u20bd",
+            "Battle-Scarred": "9.06 \u20bd"
+        }
+    },
+    "\u041f\u0438\u043a\u0441\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u0430\u043c\u0443\u0444\u043b\u044f\u0436 \u00ab\u041c\u0435\u0442\u0430\u043b\u043b\u0438\u0447\u0435\u0441\u043a\u0438\u0439\u00bb": {
+        "Basic": {
+            "Factory New": "14.59 \u20bd",
+            "Minimal Wear": "8.21 \u20bd"
+        },
+        "Souvenir": {
+            "Factory New": "101.23 \u20bd",
+            "Minimal Wear": "371.18 \u20bd"
+        }
+    },
+    "\u041f\u044b\u043b\u044c\u043d\u0438\u043a": {
+        "Basic": {
+            "Factory New": "2.73 \u20bd",
+            "Minimal Wear": "2.73 \u20bd",
+            "Field-Tested": "2.73 \u20bd",
+            "Well-Worn": "2.73 \u20bd",
+            "Battle-Scarred": "2.73 \u20bd"
+        },
+        "Souvenir": {
+            "Factory New": "13.64 \u20bd",
+            "Minimal Wear": "2.73 \u20bd",
+            "Field-Tested": "2.73 \u20bd",
+            "Well-Worn": "2.73 \u20bd",
+            "Battle-Scarred": "4.55 \u20bd"
+        }
+    }
+}
